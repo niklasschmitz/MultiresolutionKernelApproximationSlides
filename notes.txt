@@ -1,0 +1,4 @@
+Links
+arxiv: https://arxiv.org/abs/1708.02183
+Poster: http://people.cs.uchicago.edu/~dingy/posters/NIPS17_poster.pdf
+Youtube short clip: https://www.youtube.com/watch?v=sV_NOVrKotA
