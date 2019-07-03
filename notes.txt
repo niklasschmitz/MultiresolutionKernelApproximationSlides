@@ -2,3 +2,14 @@ Links
 arxiv: https://arxiv.org/abs/1708.02183
 Poster: http://people.cs.uchicago.edu/~dingy/posters/NIPS17_poster.pdf
 Youtube short clip: https://www.youtube.com/watch?v=sV_NOVrKotA
+
+
+TODO
+- add source for gpregression image
+- add conclusion
+- explain why low rank is not reasonable
+
+
+Typos
+- page 3: detail space: "n-c rows" should be "m-c rows"
+- page 6: 10th line "assmue"
